@@ -1,2 +1,2 @@
 # ASH
-Website mockup
+Website mockup for a Gardening Service Profile
