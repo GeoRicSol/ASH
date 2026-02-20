@@ -121,7 +121,7 @@ haxe_iterators_ArrayIterator.prototype = {
 		return this.array[this.current++];
 	}
 };
-LoadImgPalette.images = [{ url : "../img/Welcome.png", title : "Welcome"},{ url : "../img/Garden Maintenance.jpg", title : "Garden Maintenance"},{ url : "../img/Garden Tidy.jpg", title : "Garden Tidy"},{ url : "../img/Grass Turfing.jpg", title : "Grass Turfing"},{ url : "../img/Laying Slabs.jpg", title : "Laying Slabs"},{ url : "../img/Planting Borders.jpg", title : "Planting Borders"},{ url : "../img/Planting Out.jpg", title : "Planting Out"}];
+LoadImgPalette.images = [{ url : "../img/Welcome.png", title : "Welcome"},{ url : "../img/Paint Fence.png", title : "Paint Fence"},{ url : "../img/Garden Maintenance.jpg", title : "Garden Maintenance"},{ url : "../img/Garden Tidy.jpg", title : "Garden Tidy"},{ url : "../img/Mowing.jpg", title : "Mowing Lawn"},{ url : "../img/Grass Turfing.jpg", title : "Grass Turfing"},{ url : "../img/Laying Slabs.jpg", title : "Laying Slabs"},{ url : "../img/Planting Borders.jpg", title : "Planting Borders"},{ url : "../img/Planting Out.jpg", title : "Planting Out"}];
 LoadImgPalette.index = 0;
 LoadImgPalette.startX = 0;
 LoadImgPalette.endX = 0;
